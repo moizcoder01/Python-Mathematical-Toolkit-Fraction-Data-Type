@@ -26,7 +26,7 @@ The class calculates fractions using the following standard formulas:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/moizcoder01/Python-Mathematical-Toolkit-Fraction-Data-Type.git)
     ```
 2.  **Run the Script:**
     ```bash
